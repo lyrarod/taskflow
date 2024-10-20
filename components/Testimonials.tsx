@@ -17,38 +17,33 @@ const testimonials = [
   {
     name: "Michael Chen",
     role: "Startup Founder",
-    content:
-      "I can't imagine running my business without this tool. It's been a game-changer for our productivity.",
+    content: `"I can't imagine running my business without this tool. It's been a game-changer for our productivity."`,
     avatar: "https://github.com/shadcn.png",
   },
   {
     name: "Sarah Johnson",
     role: "Marketing Manager",
-    content:
-      "This micro-SaaS has revolutionized our workflow. It's intuitive, powerful, and has saved us countless hours.",
+    content: `"This micro-SaaS has revolutionized our workflow. It's intuitive, powerful, and has saved us countless hours."`,
     avatar:
       "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
   },
   {
     name: "Michael Chen",
     role: "Startup Founder",
-    content:
-      "I can't imagine running my business without this tool. It's been a game-changer for our productivity.",
+    content: `"I can't imagine running my business without this tool. It's been a game-changer for our productivity."`,
     avatar: "https://github.com/shadcn.png",
   },
   {
     name: "Emily Rodriguez",
     role: "Project Manager",
-    content:
-      "The features and customer support are top-notch. It has significantly improved our team's collaboration.",
+    content: `"The features and customer support are top-notch. It has significantly improved our team's collaboration."`,
     avatar:
       "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
   },
   {
     name: "Michael Chen",
     role: "Startup Founder",
-    content:
-      "I can't imagine running my business without this tool. It's been a game-changer for our productivity.",
+    content: `"I can't imagine running my business without this tool. It's been a game-changer for our productivity."`,
     avatar: "https://github.com/shadcn.png",
   },
 ];
