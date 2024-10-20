@@ -89,7 +89,7 @@ export default function Testimonials() {
                       height={80}
                       className="mb-4 rounded-full"
                     />
-                    <p className="mb-4 text-lg">"{`${testimonial.content}`}"</p>
+                    <p className="mb-4 text-lg">{`${testimonial.content}`}</p>
                     <h3 className="font-semibold">{testimonial.name}</h3>
                     <p className="text-sm text-muted-foreground">
                       {testimonial.role}
