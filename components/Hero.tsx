@@ -20,8 +20,8 @@ export default function Hero() {
             </h1>
           </div>
           <blockquote className="max-w-xl mx-auto mt-6 italic border-l-2 text-muted-foreground md:text-xl">
-            "Boost productivity and streamline your tasks with our intuitive
-            micro-SaaS solution."
+            {`"Boost productivity and streamline your tasks with our intuitive
+            micro-SaaS solution."`}
           </blockquote>
           <div className="space-x-4">
             <Button>Get Started</Button>
