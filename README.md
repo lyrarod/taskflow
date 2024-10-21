@@ -1,1 +1,1 @@
-![mobile](https://github.com/user-attachments/assets/30b237f3-70bf-4940-a266-123da47c57ee)
+![mobile](https://github.com/user-attachments/assets/79e2724e-b7d7-42dc-b1b4-cb5e85aab93c)
